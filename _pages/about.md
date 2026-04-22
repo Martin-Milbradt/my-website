@@ -12,9 +12,9 @@ profile:
 
 I evaluate frontier AI models for dangerous capabilities, working with governments and leading AI labs to keep development safe. I currently contribute to AI safety research at METR, EquiStamp, and Redwood Research, where I design benchmarks, run evaluations, and develop new approaches to measure AI capabilities.
 
-Before AI safety I spent 7+ years as a freelance software engineer in C#, Python, and system architecture, across insurance, banking, and automotive. I've led complex migrations, integrated international partners, and shipped mission-critical systems.
+Before AI safety I worked in software engineering in C#, Python, and system architecture, across insurance, banking, and automotive. I've led complex migrations, integrated international partners, and shipped mission-critical systems.
 
-I'm drawn to high-impact technical work. I organise Effective Altruism Berlin, I'm a [Giving What We Can](https://www.givingwhatwecan.org/) member, and I donate 20% of my income to evidence-based charities.
+I'm drawn to high-impact technical work. I organise [Effective Altruism Berlin](https://www.ea-berlin.org/), I'm a [Giving What We Can](https://www.givingwhatwecan.org/) member, and donate 20% of my income to evidence-based charities.
 
 [Book a call with me](https://calendly.com/martin-milbradt/30min).
 
